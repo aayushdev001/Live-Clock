@@ -19,7 +19,7 @@ setInterval(() => {
 
     setInterval(() =>{
         bg = document.querySelector("body");
-        bg.style.backgroundImage = "url(https://source.unsplash.com/1600x1200?india)";
+        //bg.style.backgroundImage = "url(https://source.unsplash.com/1600x1200?india)";
         // document.body.style.backgroundImage = "url('https://source.unsplash.com/1600x1200?india')";
         // document.body.style.backgroundImage = "url('./img/London, United Kingdom 3l1sjp562qQ.jpg')";
         console.log("Chal be");
